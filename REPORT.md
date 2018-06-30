@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Ruby FElton
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: No known unresolved issues
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: no further notes to report 
 
 ###
